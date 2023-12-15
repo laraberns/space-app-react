@@ -28,7 +28,7 @@ const CampoTextoEstilizado = styled.input`
     }
 
     @media (max-width: 744px) {
-        width: 70vw;
+        width: 80vw;
     }
 `
 const IconeLupa = styled.img`

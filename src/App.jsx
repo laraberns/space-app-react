@@ -29,6 +29,10 @@ const MainContainer = styled.main`
        padding: 0 40px;
     }
 
+    @media (max-width: 744px) {
+       padding: 0 15px;
+    }
+
 `
 
 const ConteudoDaGaleria = styled.section`

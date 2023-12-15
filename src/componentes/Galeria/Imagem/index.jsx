@@ -35,6 +35,10 @@ const Figure = styled.figure`
     @media (max-width: 1440px) {
         width: ${props => props.$expandida ? '90vw' : '460px'};
     }
+
+    @media (max-width: 744px) {
+        width: ${props => props.$expandida ? '90vw' : '90vw'};
+    }
 `
 
 const Rodape = styled.footer`
