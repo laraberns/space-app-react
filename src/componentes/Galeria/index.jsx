@@ -11,6 +11,7 @@ const GaleriaContainer = styled.div`
     @media (max-width: 744px) {
     flex-direction: column;
     align-items: center;
+    gap: 0;
     }
 `
 const SecaoFluida = styled.section`
