@@ -12,6 +12,8 @@ const ContainerRodape = styled.section`
 
     @media (max-width: 744px) {
        flex-direction: column;
+       margin-top: 30px;
+       padding: 0;
     }
 `
 

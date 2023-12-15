@@ -50,6 +50,7 @@ const ContainerPrincipal = styled.div`
   @media (max-width: 744px) {
     flex-direction: column;
     gap: 20px;
+    padding: 40px 0 10px 0;
     }
 `
 
